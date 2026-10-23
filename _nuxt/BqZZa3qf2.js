@@ -1,0 +1,1 @@
+import{mt as e,xt as s,z as t,zt as a}from"./p2ZEm2WG.js";import{b as r}from"./WDGZmPq0.js";t(),s();var o=({from:s,replacement:t,scope:o,version:i,ref:m,type:p="API"},n)=>{e(()=>a(n),e=>{e&&r(o,`[${p}] ${s} is about to be deprecated in version ${i}, please use ${t} instead.\nFor more detail, please visit: ${m}\n`)},{immediate:!0})};export{o as t};

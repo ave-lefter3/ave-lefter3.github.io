@@ -1,0 +1,1 @@
+import{br as r}from"./CYyTca2O.js";function o(o){!1!==o&&r.error(String(o))}export{o as t};

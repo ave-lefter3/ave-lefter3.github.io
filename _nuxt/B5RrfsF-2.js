@@ -1,0 +1,1 @@
+import{o as t}from"./CsSxn1xi2.js";function a(a){const o=new t(a),n=JSON.parse(o.formatJson());return n.forEach(t=>{"function"!==t.type||t.stateMutability||(t.stateMutability="nonpayable")}),n}export{a as t};

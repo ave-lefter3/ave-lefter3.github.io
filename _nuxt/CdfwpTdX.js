@@ -1,0 +1,1 @@
+import{Sa as r}from"./CYyTca2O.js";function t(){if(!arguments.length)return[];var t=arguments[0];return r(t)?t:[t]}export{t};
