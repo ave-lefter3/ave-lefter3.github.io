@@ -1,0 +1,1 @@
+import{Ba as o,Va as r}from"./CJ7vA8q9.js";import{t as n}from"./dapq-uZ12.js";var t=null;function a(){return t??=function(){const{token_logo_url:t}=r(),a=o=>`${t}chain/${o}.png`;return{logoUrl:a,colorOf:r=>o(r)||n(a(r))}}(),t}export{a as t};

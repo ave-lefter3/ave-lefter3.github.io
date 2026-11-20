@@ -1,0 +1,1 @@
+import{l as n}from"./WzSdoQKl2.js";import{t as o}from"./BOb5ub_D2.js";function t(){const t=n(),{connectAndLogin:r}=o();return{requireHlLogin:function(){return!!t.isConnectLogin||(r(),!1)}}}export{t};
