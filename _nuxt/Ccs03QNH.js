@@ -1,0 +1,1 @@
+import{B as t,w as e}from"./ci5gUNoE.js";import{p as r}from"./B8syP98P.js";import{t as o}from"./tbS1uNy3.js";t();function i(){const t=o(),i=r(),a=e(()=>t.topbarVisible&&"perp-id"!==i.name),s=e(()=>a.value?32:0),p=e(()=>96+s.value);return{headerHeight:60,footerHeight:36,topbarVisible:a,topbarHeight:s,chromeHeight:p}}export{i as t};

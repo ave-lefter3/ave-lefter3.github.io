@@ -1,0 +1,1 @@
+import"./Bllz2UrH.js";var r=""+new URL("mag-chart.D7d_pidq.svg",import.meta.url).href;export{r as default};

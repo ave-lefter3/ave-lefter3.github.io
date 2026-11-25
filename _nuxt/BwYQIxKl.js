@@ -1,0 +1,1 @@
+import{To as i}from"./D0QEsU8t.js";import{S as n}from"./rhzs7aaN.js";function r(r,t,a){var o=!0,e=!0;if("function"!=typeof r)throw new TypeError("Expected a function");return n(a)&&(o="leading"in a?!!a.leading:o,e="trailing"in a?!!a.trailing:e),i(r,t,{leading:o,maxWait:t,trailing:e})}export{r as t};
